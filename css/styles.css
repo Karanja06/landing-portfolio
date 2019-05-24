@@ -2,3 +2,9 @@
     font-style: oblique;
     font-size: 25px
 }
+h1 {
+    color: firebrick;
+    font-style: inherit;
+    background-color: black;
+    margin-left: 50px;
+}
