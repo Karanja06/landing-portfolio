@@ -11,3 +11,10 @@ h1 {
 body {
     background-color: coral;
 }
+h1 {
+    border-style: ridge;
+    border-width: 10px;
+    border-color: darkred;
+    border-left-style: dotted;
+    border-radius: 10px;
+}
