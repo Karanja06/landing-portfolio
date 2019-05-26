@@ -21,3 +21,14 @@ h1 {
     border-right-style: dotted;
     border-radius: 10px;
 }
+<style>
+h1 
+div{
+    padding: 30px 20px 60px 30px
+    border: 2px darkgreen
+    background-color: 
+    blue;
+
+}
+
+</style>
