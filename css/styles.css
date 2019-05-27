@@ -26,3 +26,12 @@ body {
     border: 2px darkgreen;
     background-color: pink;
 }
+.first {
+    color: darkorange;
+}
+.second {
+    color: maroon;
+}
+.different {
+    color: brown;
+}
