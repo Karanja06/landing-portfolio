@@ -10,27 +10,19 @@ h1 {
     font-style: inherit;
     background-color: darkturquoise;
     margin-left: 50px;
-}
-body {
-    background-color: coral;
-}
-h1 {
     border-style: ridge;
     border-width: 10px;
     border-color: darkred;
     border-right-style: dotted;
     border-radius: 10px;
-<style>
-div{
-    padding: 30px 20px 60px 30px
-    border: 2px darkgreen
-    background-color: 
-    blue;
-
-}
-
-</style>
 }
 body {
-    background-image: https://images.idgesg.net/images/article/2017/05/coding_development_data_macbook_pro_laptop_thinkstock_627045246-100724496-large.jpg
+    background-color: coral;}
+    img{
+        float: right;
+    } 
+.test-box {
+    padding: 30px 20px 60px 30px;
+    border: 2px darkgreen;
+    background-color: pink;
 }
