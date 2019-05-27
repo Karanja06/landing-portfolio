@@ -17,6 +17,9 @@ h1 {
     border-radius: 10px;
 }
 body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDSGYrJNwNLZc4XCHLjUuYGssxDKF2S2BqxfqeCU02W27O7ed");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: coral;}
     img{
         float: right;
