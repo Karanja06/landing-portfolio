@@ -20,9 +20,7 @@ h1 {
     border-color: darkred;
     border-right-style: dotted;
     border-radius: 10px;
-}
 <style>
-h1 
 div{
     padding: 30px 20px 60px 30px
     border: 2px darkgreen
@@ -32,3 +30,7 @@ div{
 }
 
 </style>
+}
+body {
+    background-image: https://images.idgesg.net/images/article/2017/05/coding_development_data_macbook_pro_laptop_thinkstock_627045246-100724496-large.jpg
+}
